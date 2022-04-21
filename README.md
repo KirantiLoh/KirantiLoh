@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm [Maurice Yang!][website]
 
-<!--
-**KirantiLoh/KirantiLoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm an aspiring full stack web developer who specializes in Next JS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [My ExpTrackr][myexptrackr]
+- 🌱 I’m currently learning Next JS
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like calisthenics and chess!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me : 
+
+
+
+<br/>
+<br/>
+
+[website]: https://maurice-yang.netlify.app/
+[myexptrackr]: https://myexptrackr.netlify.app/
+[instagram]: https://www.instagram.com/maurice_yang/
+[linkedin]: https://www.linkedin.com/in/maurice-yang/
+[twitter]: https://twitter.com/ImMauriceYang
